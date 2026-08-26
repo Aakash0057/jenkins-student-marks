@@ -1,8 +1,8 @@
 name = "Aakash"
 
-mark1 = 80
-mark2 = 75
-mark3 = 90
+mark1 = 85
+mark2 = 90
+mark3 = 95
 
 total = mark1 + mark2 + mark3
 average = total / 3
